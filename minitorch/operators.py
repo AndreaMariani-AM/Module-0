@@ -208,7 +208,7 @@ def inv(x: float) -> float:
     # return 1.0 / x
 
 
-def log_back(x: str, y: str) -> str:
+def log_back(x: float, y: float) -> float:
     """
     Computes the derivative of a log times a second arg
 

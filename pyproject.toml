@@ -7,7 +7,7 @@ name = "minitorch"
 version = "0.5"
 
 [tool.pyright]
-include = ["minitorch","tests"] 
+include = ["minitorch","tests"]
 exclude = ["**/docs", "**/project", "**/mt_diagrams", "**/assignments"]
 venvPath = "."
 venv = ".venv"
